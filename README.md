@@ -1,2 +1,2 @@
 
-connect=5.0.5
+connect=5.0.6
