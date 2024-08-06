@@ -1,2 +1,2 @@
 
-connect=5.2.3
+connect=5.5.0
