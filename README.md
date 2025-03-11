@@ -1,2 +1,2 @@
 
-connect=6.1.10
+connect=6.1.2
