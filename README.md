@@ -1,2 +1,2 @@
 
-connect=7.2.0
+connect=7.3.2
