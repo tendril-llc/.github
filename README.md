@@ -1,2 +1,2 @@
 
-connect=7.5.4
+connect=7.6.0
